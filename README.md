@@ -9,7 +9,7 @@ First of all you will need to create a file named login.py in the bot directory 
    def password():
     return "yourFacebookPassword"
 
-because the program you need your login information for connect in your already existing Tinder Account created using facebook.
+because the program willfurto need your login information for connect in your already existing Tinder Account created using facebook.
 
 For this bot work you will need Chrome Web Drive installed in your machine and corrected cofigurate.
 Also you will need one virtual environment that can be installed using:
