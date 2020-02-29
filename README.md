@@ -2,6 +2,7 @@
 A basic Tinder bot made with Python with constant improvement
 
 First of all you will need to create a file named login.py in the bot directory and make two functions like this:
+
   def email():
     return "yourFacebookEmail"
    
