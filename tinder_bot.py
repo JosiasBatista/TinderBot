@@ -10,7 +10,7 @@ class TinderBot():
         self.driver = webdriver.Chrome()
 
     def login(self):
-         self.driver.get('https://instagram.com')
+         self.driver.get('https://tinder.com')
 
          sleep(4)
 
